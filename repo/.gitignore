@@ -1,0 +1,30 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+build/
+dist/
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- 환경변수 / 민감정보 (Snowflake 계정정보 등) ---
+.env
+.streamlit/secrets.toml
+
+# --- 원본 데이터 (용량이 커서 커밋하지 않음, data/raw/README.md 참고) ---
+data/raw/*.csv
+
+# --- OS / 에디터 ---
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# --- 로그 / 캐시 ---
+*.log
+.cache/

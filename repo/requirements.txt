@@ -1,0 +1,11 @@
+# 데이터 처리 / 분석
+pandas
+numpy
+scikit-learn
+
+# 대시보드
+streamlit
+
+# Snowflake 연동 (선택)
+snowflake-connector-python
+python-dotenv
