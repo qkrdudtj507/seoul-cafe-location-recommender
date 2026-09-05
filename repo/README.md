@@ -99,4 +99,3 @@ seoul-cafe-location-recommender/
     └── 카페_입지추천_분석리포트.pdf
 ```
 
-*(필요 시 라이선스를 명시하세요, 예: MIT License)*
