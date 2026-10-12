@@ -18,7 +18,6 @@
 - 📊 **핵심 산출물**: 상권별 종합 추천 점수, TOP N 추천 리스트
 - 🖥️ **시각화**: Streamlit 대시보드 (Snowflake 연동 지원)
 
-전체 분석 배경·해석은 [`repo/BIGDATA SUMMER SCHOOL.pdf`](repo/BIGDATA SUMMER SCHOOL.pdf)를 참고하세요.
 
 ## 🔍 분석 방법론 & 코드 매핑
 
