@@ -18,7 +18,7 @@
 - 📊 **핵심 산출물**: 상권별 종합 추천 점수, TOP N 추천 리스트
 - 🖥️ **시각화**: Streamlit 대시보드 (Snowflake 연동 지원)
 
-전체 분석 배경·해석은 [`reports/카페_입지추천_분석리포트.pdf`](reports/카페_입지추천_분석리포트.pdf)를 참고하세요.
+전체 분석 배경·해석은 [`repo/BIGDATA SUMMER SCHOOL.pdf`](repo/BIGDATA SUMMER SCHOOL.pdf)를 참고하세요.
 
 ## 🔍 분석 방법론 & 코드 매핑
 
@@ -95,7 +95,6 @@ seoul-cafe-location-recommender/
 ├── dashboard/
 │   └── app.py                   # Streamlit 대시보드
 ├── notebooks/                    # 탐색적 분석용 노트북 (자유롭게 추가)
-└── reports/
-    └── 카페_입지추천_분석리포트.pdf
+└── BIGDATA SUMMER SCHOOL.pdf # 발표 자료
 ```
 
